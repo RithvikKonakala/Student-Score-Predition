@@ -7,18 +7,18 @@ https://github.com/RithvikKonakala/Student-Score-Predition/assets/152598782/80fa
 
 
 Table of content:-
-Student_info - It contain CSV file.
-University - It contain Backend Code.
-Templates - It contain templates.
-Prediction - It contain Fronted(Deployment)
-Predict - It contain pkl file.
-Static - It contain image.
+- Student_info - It contain CSV file.
+- University - It contain Backend Code.
+- Templates - It contain templates.
+- Prediction - It contain Fronted(Deployment)
+- Predict - It contain pkl file.
+- Static - It contain image.
 
 Business Understanding:-
-In this project we built a prediction model for know how many hours a Oxstandhard university students need to learn to get more than 90% marks in his/her examination.
+-In this project we built a prediction model for know how many hours a Oxstandhard university students need to learn to get more than 90% marks in his/her examination.
 
 Data Understanding:-
-We have historical data of student who studied for particular hours to get particular score and this attributes are the perfect fit for build our model.
+-We have historical data of student who studied for particular hours to get particular score and this attributes are the perfect fit for build our model.
 
 Technologies:- 
 - Python
